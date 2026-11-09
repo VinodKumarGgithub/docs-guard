@@ -53,8 +53,7 @@ Point [src/sources.ts](src/sources.ts) at your docs, rewrite the triage rules fo
 and label 50–100 real support questions from your own channels. The release check then tells you, before every change,
 whether the assistant still pages every incident, still refuses billing questions and still cites the right page.
 
-I build this for product teams, usually as a one-week prototype on your own docs, with your own release check.
-Vinod Kumar G · [imvinod.com](https://imvinod.com) · imvinodkumarg@gmail.com
+Built by Vinod Kumar G · [imvinod.com](https://imvinod.com)
 
 ## Licence
 MIT. The BullMQ documentation is © Taskforce.sh and contributors, under the MIT licence; it's fetched at run time, not
