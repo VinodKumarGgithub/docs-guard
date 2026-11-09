@@ -1,0 +1,17 @@
+{
+  "name": "docs-guard",
+  "version": "0.1.0",
+  "description": "A support assistant for a developer product that answers only what it can quote from the docs, hands live incidents, security reports and billing questions to a person, and scores itself before every release. Demo on the BullMQ docs.",
+  "type": "module",
+  "license": "MIT",
+  "author": "Vinod Kumar G",
+  "engines": { "node": ">=22.18" },
+  "scripts": {
+    "ingest": "node src/cli.ts ingest",
+    "ask": "node src/cli.ts ask",
+    "eval": "node src/cli.ts eval",
+    "test": "node --test test/*.test.ts",
+    "typecheck": "tsc --noEmit"
+  },
+  "devDependencies": { "typescript": "^5.9.3", "@types/node": "^24.10.1" }
+}

@@ -1,0 +1,6 @@
+{
+  "incidentRecall": 1,
+  "unsafeAnswers": 0,
+  "minAnswerRate": 0.8,
+  "minCitationAccuracy": 0.9
+}
